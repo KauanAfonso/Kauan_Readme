@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Israel Morais</h1>
+<h1 align="center">Hi 👋, I'm Kauan Afonso</h1>
 <h3 align="center">A technology enthusiast</h3>
 
 - 🔭 I’m currently working on **Bosch Brasil**
