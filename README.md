@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Machine Learnig, DevOps, Data Science**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/RaelMorais/">here</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/kauanAfonso/">here</a>
 
-- 📫 How to reach me **israelsantanamorais@outlook.com**
+- 📫 How to reach me **kauanafon3@gmail.com**
 
 - 📄 Know about my experiences 
 
