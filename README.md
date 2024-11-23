@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Bosch Brasil**
 
-- 🌱 I’m currently learning **Machine Learnig, DevOps, Data Science**
+- 🌱 I’m currently learning about **Web Development, AI, Web Design**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/kauanAfonso/">here</a>
 
